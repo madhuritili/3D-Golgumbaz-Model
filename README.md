@@ -50,10 +50,5 @@ This project digitally recreates the grandeur and architectural magnificence of 
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or want to enhance features, feel free to:
+Feel free to fork the repo, create a feature branch, make your changes, and open a pull request!
 
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature-xyz`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-xyz`)
-5. Open a Pull Request
